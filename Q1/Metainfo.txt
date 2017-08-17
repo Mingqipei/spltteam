@@ -1,0 +1,19 @@
+Name of QuantLet:splEABESM1-overviewofreturndata
+
+Published in: Expectile-Arch Based ES Measurement
+
+Description:Generates a data set, change the format of date variable and calculate the stock return as the dependent variable and draw the return plot.
+
+Keywords: log, difference, stock return, stock price, date, plot
+
+See also: MVAMDScity1, MVAMDScity2, MVAMDSpooladj, MVAmdscarm, MVAnmdscar1, MVAnmdscar2, MVAnmdscar3, MVAMDSnonmstart, PAVAlgo
+
+Author: Zografia Anastasiadou
+
+Submitted: Thu, September 11 2014 by Franziska Schulz
+
+Input: 
+- x : the reported preference orderings for the car example
+- y : the fitted values of x
+
+Example: Plot of estimated preference orderings vs revealed rankings and PAV fit.
