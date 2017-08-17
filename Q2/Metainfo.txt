@@ -1,0 +1,15 @@
+Name of QuantLet:splEABESM2-calculatetheta
+
+Published in: Expectile-Arch Based ES Measurement
+
+Description:Set an alpha and use kernel density distribution to estimate theta.
+
+Keywords: kernel, density, approxfun, quantile, integrate, plot
+
+See also: splEABESM2-calculatetheta, splEABESM3-data, splEABESM4-prepareforiteration, splEABESM5-iterationfunction, splEABESM6-iterationloop, splEABESM7-results
+
+Author: Xiaodan Zhao, Bingling Wang, Mingqi pei
+
+Submitted: Thu, August 17 2017 by Mingqi Pei
+
+Example: Draw the plot of kernel density distribution.
